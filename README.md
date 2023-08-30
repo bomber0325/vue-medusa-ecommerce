@@ -1,11 +1,6 @@
 ## Medusa Vue SSR
 ![Medusa Hackathon 2022](https://i.ibb.co/nPs84pQ/cover.png)
 
-## About
-
-### Participants
-Vincent - [@vinmaster](https://github.com/vinmaster)
-
 ### Description
 
 An open source ecommerce mobile application built using Medusa and [vite-plugin-ssr](https://vite-plugin-ssr.com/)
@@ -29,7 +24,7 @@ Before you start with the tutorial make sure you have
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/vinmaster/medusa-vue-ssr
+git clone https://github.com/bomber0325/vue-medusa-ecommerce
 ```
 
 2. Change directory and install dependencies:
